@@ -2,7 +2,7 @@
   "name": "RTC-example",
   "version": "0.0.0",
   "description": "This is an example for web RTC.",
-  "main": "server.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
