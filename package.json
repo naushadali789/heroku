@@ -1,0 +1,22 @@
+{
+  "name": "RTC-example",
+  "version": "0.0.0",
+  "description": "This is an example for web RTC.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/naushadali789/heroku.git"
+  },
+  "keywords": [
+    "webrtc",
+    "real time video chat"
+  ],
+  "author": "naushad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/naushadali789/heroku/issues"
+  }
+}
