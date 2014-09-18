@@ -1,10 +1,10 @@
 {
-  "name": "node-js-getting-started",
+  "name": "web-rtc-example",
   "version": "0.1.0",
-  "description": "A sample Node.js app using Express 4",
-  "main": "index.js",
+  "description": "A sample Node.js app using web rtc",
+  "main": "server.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "node-static": "0.7.5"
@@ -14,16 +14,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/heroku/node-js-getting-started"
+    "url": "https://github.com/naushadali789/heroku.git"
   },
   "keywords": [
     "node",
     "heroku",
-    "express"
+    "web RTC"
   ],
-  "author": "Mark Pundsack",
+  "author": "Naushad Ali",
   "contributors": [
-    "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
+    "Naushad Ali <naushad.ali@9dot9.in>"
   ],
   "license": "MIT"
 }
