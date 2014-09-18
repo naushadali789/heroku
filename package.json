@@ -1,22 +1,29 @@
 {
-  "name": "RTC-example",
-  "version": "0.0.0",
-  "description": "This is an example for web RTC.",
-  "main": "index.html",
+  "name": "node-js-getting-started",
+  "version": "0.1.0",
+  "description": "A sample Node.js app using Express 4",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-static": "0.7.5"
+  },
+  "engines": {
+    "node": "0.10.x"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/naushadali789/heroku.git"
+    "url": "https://github.com/heroku/node-js-getting-started"
   },
   "keywords": [
-    "webrtc",
-    "real time video chat"
+    "node",
+    "heroku",
+    "express"
   ],
-  "author": "naushad",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/naushadali789/heroku/issues"
-  }
+  "author": "Mark Pundsack",
+  "contributors": [
+    "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
+  ],
+  "license": "MIT"
 }
